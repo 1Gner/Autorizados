@@ -1,1 +1,1 @@
-Auto,Ult,Ultimate,
+Ult,Ultimate,
