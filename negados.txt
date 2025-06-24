@@ -2,7 +2,3 @@
 
 Firts,
 
-Script,assassin
-Sea,logado
-Sea,logado
-Shonen,priest
