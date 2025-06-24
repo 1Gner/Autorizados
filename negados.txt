@@ -13,3 +13,4 @@ Die
 Die
 Taiko,priest
 Cianca,fighter
+Dopes,engineer
