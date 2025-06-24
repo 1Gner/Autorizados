@@ -7,3 +7,4 @@ Firts,
 Leaf
 Die
 Leaf
+Mini,logado
