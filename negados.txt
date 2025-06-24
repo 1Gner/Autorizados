@@ -11,3 +11,4 @@ Mini,logado
 Taiko,priest
 Die
 Die
+Taiko,priest
