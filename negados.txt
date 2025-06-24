@@ -5,3 +5,4 @@ Firts,
 
 Earth,fighter
 Ultimate,glaiver
+Leaf
