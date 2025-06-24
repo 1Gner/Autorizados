@@ -3,3 +3,4 @@
 Firts,
 
 Script,assassin
+Sea,logado
