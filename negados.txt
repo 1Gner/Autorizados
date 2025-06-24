@@ -16,3 +16,4 @@ Cianca,fighter
 Dopes,engineer
 Fawk,glaiver
 Leaf
+Fawk,glaiver
