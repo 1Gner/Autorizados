@@ -93,3 +93,4 @@ Leaf
 Leaf
 Sea,logado
 Sea,logado
+Sea,negado
