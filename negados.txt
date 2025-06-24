@@ -12,3 +12,4 @@ Taiko,priest
 Die
 Die
 Taiko,priest
+Cianca,fighter
