@@ -10,3 +10,4 @@ Leaf
 Mini,logado
 Taiko,priest
 Die
+Die
