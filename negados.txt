@@ -3,8 +3,3 @@
 Firts,
 
 
-Earth,fighter
-Ultimate,glaiver
-Leaf
-Shonen,priest
-Sea,negado
