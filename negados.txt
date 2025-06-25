@@ -39,3 +39,4 @@ Taiko,priest
 Cianca,fighter
 Taiko,priest
 Taiko,priest
+Taiko,priest
