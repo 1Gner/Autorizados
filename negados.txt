@@ -49,3 +49,4 @@ Taiko,priest
 Taiko,priest
 Yulv,glaiver
 Leaf
+Yulv,glaiver
