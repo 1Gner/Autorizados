@@ -29,3 +29,4 @@ Die
 Leaf
 Yulv,glaiver
 Yulv,glaiver
+Taiko,priest
