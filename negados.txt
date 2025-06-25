@@ -36,3 +36,4 @@ Taiko,priest
 Taiko,priest
 Yulv,glaiver
 Taiko,priest
+Cianca,fighter
