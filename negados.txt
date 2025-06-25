@@ -50,3 +50,4 @@ Taiko,priest
 Yulv,glaiver
 Leaf
 Yulv,glaiver
+Mini,logado
