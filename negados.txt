@@ -73,3 +73,4 @@ Leaf
 Fawk,glaiver
 Dopes,engineer
 Cianca,fighter
+Taiko,priest
