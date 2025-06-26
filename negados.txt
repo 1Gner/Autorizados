@@ -59,3 +59,4 @@ Dopes,engineer
 Yulv,glaiver
 Dopes,engineer
 Taiko,priest
+Cianca,fighter
