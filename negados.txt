@@ -64,3 +64,4 @@ Taiko,priest
 Yulv,glaiver
 Fawk,glaiver
 Mini,logado
+Yulv,glaiver
