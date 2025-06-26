@@ -76,3 +76,4 @@ Cianca,fighter
 Taiko,priest
 Cianca,fighter
 Leaf
+Mini,logado
