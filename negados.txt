@@ -77,3 +77,4 @@ Taiko,priest
 Cianca,fighter
 Leaf
 Mini,logado
+Dopes,engineer
