@@ -58,3 +58,4 @@ Yulv,glaiver
 Dopes,engineer
 Yulv,glaiver
 Dopes,engineer
+Taiko,priest
