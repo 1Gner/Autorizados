@@ -61,3 +61,4 @@ Dopes,engineer
 Taiko,priest
 Cianca,fighter
 Taiko,priest
+Yulv,glaiver
