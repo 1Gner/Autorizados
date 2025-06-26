@@ -72,3 +72,4 @@ Leaf
 Leaf
 Fawk,glaiver
 Dopes,engineer
+Cianca,fighter
