@@ -102,3 +102,4 @@ Die
 Die
 Fawk,glaiver
 Dopes,engineer
+Cianca,fighter
