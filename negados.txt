@@ -88,3 +88,4 @@ Mini,logado
 Leaf
 Yulv,glaiver
 Mini,logado
+delixo,soulless
