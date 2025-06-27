@@ -82,3 +82,4 @@ Yulv,glaiver
 Leaf
 Leaf
 Leaf
+Mini,logado
