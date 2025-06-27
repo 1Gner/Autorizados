@@ -106,3 +106,4 @@ Cianca,fighter
 Taiko,priest
 Yulv,glaiver
 Mini,logado
+Yulv,glaiver
