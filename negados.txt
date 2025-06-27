@@ -94,3 +94,4 @@ Mini,logado
 delixo,soulless
 Mini,logado
 Fawk,glaiver
+Taiko,priest
