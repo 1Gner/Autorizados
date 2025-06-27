@@ -105,3 +105,4 @@ Dopes,engineer
 Cianca,fighter
 Taiko,priest
 Yulv,glaiver
+Mini,logado
