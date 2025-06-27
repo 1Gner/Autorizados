@@ -107,3 +107,4 @@ Taiko,priest
 Yulv,glaiver
 Mini,logado
 Yulv,glaiver
+delixo,soulless
