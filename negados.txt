@@ -144,3 +144,4 @@ Taiko,priest
 Mini,logado
 Die
 Leaf
+Fawk,glaiver
