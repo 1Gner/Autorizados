@@ -125,3 +125,4 @@ Die
 Die
 Mini,logado
 Leaf
+Morte
