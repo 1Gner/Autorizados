@@ -145,3 +145,4 @@ Mini,logado
 Die
 Leaf
 Fawk,glaiver
+Dopes,engineer
