@@ -141,3 +141,4 @@ Mini,logado
 Fawk,glaiver
 Cianca,fighter
 Taiko,priest
+Mini,logado
