@@ -139,3 +139,4 @@ Mini,logado
 Dopes,engineer
 Mini,logado
 Fawk,glaiver
+Cianca,fighter
