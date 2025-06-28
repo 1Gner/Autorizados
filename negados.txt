@@ -142,3 +142,4 @@ Fawk,glaiver
 Cianca,fighter
 Taiko,priest
 Mini,logado
+Die
