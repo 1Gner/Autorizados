@@ -126,3 +126,4 @@ Die
 Mini,logado
 Leaf
 Morte
+Yulv,glaiver
