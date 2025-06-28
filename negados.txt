@@ -123,3 +123,4 @@ Leaf
 Leaf
 Die
 Die
+Mini,logado
