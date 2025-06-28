@@ -132,3 +132,4 @@ Leaf
 Yulv,glaiver
 Dopes,engineer
 Wild,sorcerer
+Mini,logado
