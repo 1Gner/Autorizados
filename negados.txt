@@ -143,3 +143,4 @@ Cianca,fighter
 Taiko,priest
 Mini,logado
 Die
+Leaf
