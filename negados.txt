@@ -153,3 +153,4 @@ Yulv,glaiver
 Taiko,priest
 Leaf
 Yulv,glaiver
+Mini,logado
