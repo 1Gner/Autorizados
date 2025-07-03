@@ -29,3 +29,4 @@ Mini,logado
 Yulv,glaiver
 Die
 Blu
+Blu
