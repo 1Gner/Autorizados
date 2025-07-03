@@ -19,3 +19,4 @@ Blu
 Die
 Blu
 Die
+Mini,logado
