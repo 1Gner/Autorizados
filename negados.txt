@@ -20,3 +20,4 @@ Die
 Blu
 Die
 Mini,logado
+Die
