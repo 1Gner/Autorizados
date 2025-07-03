@@ -21,3 +21,4 @@ Blu
 Die
 Mini,logado
 Die
+Fawk,glaiver
