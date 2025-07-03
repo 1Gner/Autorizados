@@ -28,3 +28,4 @@ Taiko,priest
 Mini,logado
 Yulv,glaiver
 Die
+Blu
