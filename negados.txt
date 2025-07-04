@@ -38,3 +38,4 @@ Mini,logado
 Yulv,glaiver
 Die
 Die
+Blu
