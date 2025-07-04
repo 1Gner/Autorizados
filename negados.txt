@@ -41,3 +41,4 @@ Die
 Blu
 Blu
 Yulv,glaiver
+Mini,logado
