@@ -45,3 +45,4 @@ Mini,logado
 Taiko,priest
 Taiko,priest
 Die
+Mini,logado
