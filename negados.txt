@@ -47,3 +47,4 @@ Taiko,priest
 Die
 Mini,logado
 Die
+Yulv,glaiver
