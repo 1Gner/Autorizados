@@ -44,3 +44,4 @@ Yulv,glaiver
 Mini,logado
 Taiko,priest
 Taiko,priest
+Die
