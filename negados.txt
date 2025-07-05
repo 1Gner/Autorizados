@@ -54,3 +54,4 @@ Yulv,glaiver
 Yulv,glaiver
 Blu
 Blu
+Mini,logado
