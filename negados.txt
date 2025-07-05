@@ -64,3 +64,4 @@ Mini,logado
 Die
 Mini,logado
 Fawk,glaiver
+Dopes,engineer
