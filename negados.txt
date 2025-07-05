@@ -42,3 +42,4 @@ Blu
 Blu
 Yulv,glaiver
 Mini,logado
+Taiko,priest
