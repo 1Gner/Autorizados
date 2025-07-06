@@ -77,3 +77,4 @@ Mini,logado
 Yulv,glaiver
 piores,soulless
 Mini,logado
+Mini,logado
