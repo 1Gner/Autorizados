@@ -82,3 +82,4 @@ Yulv,glaiver
 Yulv,glaiver
 Yulv,glaiver
 Mini,logado
+Taiko,priest
