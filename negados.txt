@@ -75,3 +75,4 @@ Mini,logado
 Yulv,glaiver
 Mini,logado
 Yulv,glaiver
+piores,soulless
