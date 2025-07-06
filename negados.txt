@@ -84,3 +84,4 @@ Yulv,glaiver
 Mini,logado
 Taiko,priest
 Cianca,fighter
+Fawk,glaiver
