@@ -69,3 +69,4 @@ Mini,logado
 Cianca,fighter
 Taiko,priest
 Mini,logado
+Taiko,priest
