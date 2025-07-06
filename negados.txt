@@ -86,3 +86,4 @@ Taiko,priest
 Cianca,fighter
 Fawk,glaiver
 Yulv,glaiver
+Die
