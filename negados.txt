@@ -67,3 +67,4 @@ Fawk,glaiver
 Dopes,engineer
 Mini,logado
 Cianca,fighter
+Taiko,priest
