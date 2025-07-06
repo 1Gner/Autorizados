@@ -68,3 +68,4 @@ Dopes,engineer
 Mini,logado
 Cianca,fighter
 Taiko,priest
+Mini,logado
