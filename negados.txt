@@ -89,3 +89,4 @@ Yulv,glaiver
 Die
 Mini,logado
 Yulv,glaiver
+Blu
