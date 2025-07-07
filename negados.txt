@@ -102,3 +102,4 @@ Dopes,engineer
 Cianca,fighter
 Mini,logado
 Cianca,fighter
+Taiko,priest
