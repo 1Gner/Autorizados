@@ -92,3 +92,4 @@ Yulv,glaiver
 Blu
 Mini,logado
 Mini,logado
+Blu
