@@ -95,3 +95,4 @@ Mini,logado
 Blu
 Yulv,glaiver
 Yulv,glaiver
+Famaterasu,soulless
