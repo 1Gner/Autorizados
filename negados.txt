@@ -99,3 +99,4 @@ Famaterasu,soulless
 Fawk,glaiver
 Yulv,glaiver
 Dopes,engineer
+Cianca,fighter
