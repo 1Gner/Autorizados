@@ -100,3 +100,4 @@ Fawk,glaiver
 Yulv,glaiver
 Dopes,engineer
 Cianca,fighter
+Mini,logado
