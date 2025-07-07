@@ -106,3 +106,4 @@ Taiko,priest
 Mini,logado
 Yulv,glaiver
 Die
+Mini,logado
