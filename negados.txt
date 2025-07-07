@@ -118,3 +118,4 @@ Mini,logado
 Blu
 Blu
 Blu
+Mini,logado
