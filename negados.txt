@@ -117,3 +117,4 @@ Yulv,glaiver
 Mini,logado
 Blu
 Blu
+Blu
