@@ -104,3 +104,4 @@ Mini,logado
 Cianca,fighter
 Taiko,priest
 Mini,logado
+Yulv,glaiver
