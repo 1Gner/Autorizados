@@ -145,3 +145,4 @@ Taiko,priest
 Yulv,glaiver
 Fawk,glaiver
 Yulv,glaiver
+Fawk,glaiver
