@@ -140,3 +140,4 @@ Cianca,fighter
 Mini,logado
 Juzani,negado
 Juzani,negado
+Mini,logado
