@@ -143,3 +143,4 @@ Juzani,negado
 Mini,logado
 Taiko,priest
 Yulv,glaiver
+Fawk,glaiver
