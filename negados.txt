@@ -142,3 +142,4 @@ Juzani,negado
 Juzani,negado
 Mini,logado
 Taiko,priest
+Yulv,glaiver
