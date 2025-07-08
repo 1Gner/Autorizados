@@ -137,3 +137,4 @@ Fawk,glaiver
 Yulv,glaiver
 Taiko,priest
 Cianca,fighter
+Mini,logado
