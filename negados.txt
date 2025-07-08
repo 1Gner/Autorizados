@@ -127,3 +127,4 @@ Mini,logado
 Yulv,glaiver
 Mini,logado
 Yulv,glaiver
+Cianca,fighter
