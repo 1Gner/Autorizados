@@ -139,3 +139,4 @@ Taiko,priest
 Cianca,fighter
 Mini,logado
 Juzani,negado
+Juzani,negado
