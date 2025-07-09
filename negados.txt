@@ -155,3 +155,4 @@ Yulv,glaiver
 Taiko,priest
 Yulv,glaiver
 Mini,logado
+Die
