@@ -157,3 +157,4 @@ Yulv,glaiver
 Mini,logado
 Die
 Die
+Blu
