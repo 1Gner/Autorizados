@@ -174,3 +174,4 @@ Yulv,glaiver
 Mini,logado
 Fawk,glaiver
 Dopes,engineer
+Cianca,fighter
