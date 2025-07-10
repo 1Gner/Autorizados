@@ -169,3 +169,4 @@ Cianca,fighter
 Fawk,glaiver
 Taiko,priest
 Dopes,engineer
+Mini,logado
