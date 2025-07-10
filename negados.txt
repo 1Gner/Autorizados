@@ -178,3 +178,4 @@ Cianca,fighter
 Mini,logado
 Die
 Blu
+Blu
