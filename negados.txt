@@ -171,3 +171,4 @@ Taiko,priest
 Dopes,engineer
 Mini,logado
 Yulv,glaiver
+Mini,logado
