@@ -176,3 +176,4 @@ Fawk,glaiver
 Dopes,engineer
 Cianca,fighter
 Mini,logado
+Die
