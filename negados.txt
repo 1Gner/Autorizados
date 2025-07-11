@@ -179,3 +179,4 @@ Mini,logado
 Die
 Blu
 Blu
+Taiko,priest
