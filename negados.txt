@@ -197,3 +197,4 @@ Fawk,glaiver
 Yulv,glaiver
 Fawk,glaiver
 Mini,logado
+Taiko,priest
