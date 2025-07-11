@@ -199,3 +199,4 @@ Fawk,glaiver
 Mini,logado
 Taiko,priest
 Blu
+Blu
