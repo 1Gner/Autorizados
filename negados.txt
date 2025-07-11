@@ -189,3 +189,4 @@ Mini,logado
 Cianca,fighter
 Fawk,glaiver
 Taiko,priest
+Dopes,engineer
