@@ -200,3 +200,4 @@ Mini,logado
 Taiko,priest
 Blu
 Blu
+Blu
