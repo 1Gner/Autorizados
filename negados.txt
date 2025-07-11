@@ -180,3 +180,4 @@ Die
 Blu
 Blu
 Taiko,priest
+Cianca,fighter
