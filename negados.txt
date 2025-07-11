@@ -201,3 +201,4 @@ Taiko,priest
 Blu
 Blu
 Blu
+Mini,logado
