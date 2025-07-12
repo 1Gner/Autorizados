@@ -227,3 +227,4 @@ Taiko,priest
 Dopes,engineer
 Mini,logado
 Die
+Taiko,priest
