@@ -223,3 +223,4 @@ Yulv,glaiver
 Cianca,fighter
 Mini,logado
 Fawk,glaiver
+Taiko,priest
