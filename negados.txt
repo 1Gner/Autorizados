@@ -208,3 +208,4 @@ Taiko,priest
 Mini,logado
 Cianca,fighter
 Cianca,fighter
+Mini,logado
