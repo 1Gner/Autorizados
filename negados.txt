@@ -212,3 +212,4 @@ Mini,logado
 Cianca,fighter
 Mini,logado
 Yulv,glaiver
+Cianca,fighter
