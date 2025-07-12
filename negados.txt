@@ -214,3 +214,4 @@ Mini,logado
 Yulv,glaiver
 Cianca,fighter
 Cianca,fighter
+Cianca,fighter
