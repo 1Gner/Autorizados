@@ -244,3 +244,4 @@ Mini,logado
 Cianca,fighter
 Die
 Yulv,glaiver
+Mini,logado
