@@ -243,3 +243,4 @@ Mini,logado
 Mini,logado
 Cianca,fighter
 Die
+Yulv,glaiver
