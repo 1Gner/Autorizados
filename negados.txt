@@ -252,3 +252,4 @@ Cianca,fighter
 Mini,logado
 Blu
 Blu
+Blu
