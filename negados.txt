@@ -246,3 +246,4 @@ Die
 Yulv,glaiver
 Mini,logado
 Taiko,priest
+Blu
