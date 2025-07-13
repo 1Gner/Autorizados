@@ -238,3 +238,4 @@ Taiko,priest
 Fawk,glaiver
 Yulv,glaiver
 Cianca,fighter
+Yulv,glaiver
