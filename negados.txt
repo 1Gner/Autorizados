@@ -247,3 +247,4 @@ Yulv,glaiver
 Mini,logado
 Taiko,priest
 Blu
+Mini,logado
