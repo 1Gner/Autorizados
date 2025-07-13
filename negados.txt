@@ -229,3 +229,4 @@ Mini,logado
 Die
 Taiko,priest
 Blu
+Yulv,glaiver
