@@ -245,3 +245,4 @@ Cianca,fighter
 Die
 Yulv,glaiver
 Mini,logado
+Taiko,priest
