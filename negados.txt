@@ -228,3 +228,4 @@ Dopes,engineer
 Mini,logado
 Die
 Taiko,priest
+Blu
