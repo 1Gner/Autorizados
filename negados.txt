@@ -250,3 +250,4 @@ Blu
 Mini,logado
 Cianca,fighter
 Mini,logado
+Blu
