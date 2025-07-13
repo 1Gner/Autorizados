@@ -230,3 +230,4 @@ Die
 Taiko,priest
 Blu
 Yulv,glaiver
+Alph,lancer
