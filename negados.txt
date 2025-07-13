@@ -234,3 +234,4 @@ Alph,lancer
 Yulv,glaiver
 Mini,logado
 Dopes,engineer
+Taiko,priest
