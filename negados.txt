@@ -248,3 +248,4 @@ Mini,logado
 Taiko,priest
 Blu
 Mini,logado
+Cianca,fighter
