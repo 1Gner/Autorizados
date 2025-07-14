@@ -269,3 +269,4 @@ Yulv,glaiver
 Yulv,glaiver
 Alph,lancer
 Cianca,fighter
+Fawk,glaiver
