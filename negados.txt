@@ -285,3 +285,4 @@ Mini,logado
 Yulv,glaiver
 Alph,lancer
 Mini,logado
+Blu
