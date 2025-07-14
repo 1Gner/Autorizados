@@ -276,3 +276,4 @@ Mini,logado
 Yulv,glaiver
 Taiko,priest
 Taiko,priest
+Mini,logado
