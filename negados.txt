@@ -263,3 +263,4 @@ Alph,lancer
 Cianca,fighter
 Fawk,glaiver
 Fawk,glaiver
+Fawk,glaiver
