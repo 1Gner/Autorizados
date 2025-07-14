@@ -257,3 +257,4 @@ Yulv,glaiver
 Alph,lancer
 Alph,lancer
 Mini,logado
+Alph,lancer
