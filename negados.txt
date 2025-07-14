@@ -267,3 +267,4 @@ Fawk,glaiver
 Fawk,glaiver
 Yulv,glaiver
 Yulv,glaiver
+Alph,lancer
