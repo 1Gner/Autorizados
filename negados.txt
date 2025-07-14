@@ -260,3 +260,4 @@ Mini,logado
 Alph,lancer
 Mini,logado
 Alph,lancer
+Cianca,fighter
