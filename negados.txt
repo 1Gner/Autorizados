@@ -274,3 +274,4 @@ Taiko,priest
 Dopes,engineer
 Mini,logado
 Yulv,glaiver
+Taiko,priest
