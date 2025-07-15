@@ -297,3 +297,4 @@ Yulv,glaiver
 Mini,logado
 Die
 Cianca,fighter
+Fawk,glaiver
