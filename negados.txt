@@ -296,3 +296,4 @@ Yulv,glaiver
 Yulv,glaiver
 Mini,logado
 Die
+Cianca,fighter
