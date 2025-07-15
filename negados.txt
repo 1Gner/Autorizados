@@ -298,3 +298,4 @@ Mini,logado
 Die
 Cianca,fighter
 Fawk,glaiver
+Taiko,priest
