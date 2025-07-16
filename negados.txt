@@ -320,3 +320,4 @@ Alph,lancer
 Yulv,glaiver
 Alph,lancer
 Cianca,fighter
+Taiko,priest
