@@ -319,3 +319,4 @@ Alph,lancer
 Alph,lancer
 Yulv,glaiver
 Alph,lancer
+Cianca,fighter
