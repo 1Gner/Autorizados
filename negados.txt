@@ -323,3 +323,4 @@ Cianca,fighter
 Taiko,priest
 Cianca,fighter
 Yulv,glaiver
+Cianca,fighter
