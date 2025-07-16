@@ -343,3 +343,4 @@ Cianca,fighter
 Blu
 Yulv,glaiver
 Blu
+Cianca,fighter
