@@ -314,3 +314,4 @@ Yulv,glaiver
 Fawk,glaiver
 Taiko,priest
 Dopes,engineer
+Mini,logado
