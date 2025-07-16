@@ -316,3 +316,4 @@ Taiko,priest
 Dopes,engineer
 Mini,logado
 Alph,lancer
+Alph,lancer
