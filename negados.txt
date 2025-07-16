@@ -321,3 +321,4 @@ Yulv,glaiver
 Alph,lancer
 Cianca,fighter
 Taiko,priest
+Cianca,fighter
