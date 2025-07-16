@@ -329,3 +329,4 @@ Cianca,fighter
 Taiko,priest
 Fawk,glaiver
 Dopes,engineer
+Cianca,fighter
