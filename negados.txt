@@ -333,3 +333,4 @@ Cianca,fighter
 Fawk,glaiver
 Yulv,glaiver
 Fawk,glaiver
+Yulv,glaiver
