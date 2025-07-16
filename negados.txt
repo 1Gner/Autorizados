@@ -328,3 +328,4 @@ Yulv,glaiver
 Cianca,fighter
 Taiko,priest
 Fawk,glaiver
+Dopes,engineer
