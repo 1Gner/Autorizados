@@ -345,3 +345,4 @@ Yulv,glaiver
 Blu
 Cianca,fighter
 Yulv,glaiver
+Cianca,fighter
