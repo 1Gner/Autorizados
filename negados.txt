@@ -330,3 +330,4 @@ Taiko,priest
 Fawk,glaiver
 Dopes,engineer
 Cianca,fighter
+Fawk,glaiver
