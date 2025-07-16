@@ -315,3 +315,4 @@ Fawk,glaiver
 Taiko,priest
 Dopes,engineer
 Mini,logado
+Alph,lancer
