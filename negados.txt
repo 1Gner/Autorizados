@@ -359,3 +359,4 @@ Yulv,glaiver
 Alph,lancer
 Taiko,priest
 Cianca,fighter
+Mini,logado
