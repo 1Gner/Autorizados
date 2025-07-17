@@ -357,3 +357,4 @@ Alph,lancer
 Cianca,fighter
 Yulv,glaiver
 Alph,lancer
+Taiko,priest
