@@ -355,3 +355,4 @@ Taiko,priest
 Mini,logado
 Alph,lancer
 Cianca,fighter
+Yulv,glaiver
