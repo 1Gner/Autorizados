@@ -352,3 +352,4 @@ Yulv,glaiver
 Cianca,fighter
 Yulv,glaiver
 Taiko,priest
+Mini,logado
