@@ -356,3 +356,4 @@ Mini,logado
 Alph,lancer
 Cianca,fighter
 Yulv,glaiver
+Alph,lancer
