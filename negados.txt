@@ -363,3 +363,4 @@ Mini,logado
 Blu
 Blu
 Yulv,glaiver
+Cianca,fighter
