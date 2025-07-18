@@ -368,3 +368,4 @@ Fawk,glaiver
 Taiko,priest
 Dopes,engineer
 Alph,lancer
+Mini,logado
