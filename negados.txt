@@ -375,3 +375,4 @@ Die
 Mini,logado
 Blu
 Blu
+Cianca,fighter
