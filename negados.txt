@@ -394,3 +394,4 @@ Mini,logado
 Yulv,glaiver
 Mini,logado
 Taiko,priest
+Blu
