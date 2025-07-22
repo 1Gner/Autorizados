@@ -393,3 +393,4 @@ Yulv,glaiver
 Mini,logado
 Yulv,glaiver
 Mini,logado
+Taiko,priest
