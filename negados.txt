@@ -413,3 +413,4 @@ Fawk,glaiver
 Taiko,priest
 Alph,lancer
 Mini,logado
+Yulv,glaiver
