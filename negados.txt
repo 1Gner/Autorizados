@@ -420,3 +420,4 @@ Wild,sorcerer
 Blu
 Alph,lancer
 Yulv,glaiver
+Alph,lancer
