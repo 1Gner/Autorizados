@@ -416,3 +416,4 @@ Mini,logado
 Yulv,glaiver
 Alph,lancer
 Blu
+Wild,sorcerer
