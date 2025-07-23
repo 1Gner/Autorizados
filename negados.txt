@@ -410,3 +410,4 @@ Mini,logado
 Yulv,glaiver
 Cianca,fighter
 Fawk,glaiver
+Taiko,priest
