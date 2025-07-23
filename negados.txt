@@ -414,3 +414,4 @@ Taiko,priest
 Alph,lancer
 Mini,logado
 Yulv,glaiver
+Alph,lancer
