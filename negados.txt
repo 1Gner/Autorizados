@@ -422,3 +422,4 @@ Alph,lancer
 Yulv,glaiver
 Alph,lancer
 Yulv,glaiver
+Taiko,priest
