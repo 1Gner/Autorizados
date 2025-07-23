@@ -411,3 +411,4 @@ Yulv,glaiver
 Cianca,fighter
 Fawk,glaiver
 Taiko,priest
+Alph,lancer
