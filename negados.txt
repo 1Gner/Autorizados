@@ -402,3 +402,4 @@ Alph,lancer
 Yulv,glaiver
 Cianca,fighter
 Mini,logado
+Yulv,glaiver
