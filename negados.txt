@@ -400,3 +400,4 @@ Yulv,glaiver
 Taiko,priest
 Alph,lancer
 Yulv,glaiver
+Cianca,fighter
