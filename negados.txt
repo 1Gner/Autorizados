@@ -429,3 +429,4 @@ Yulv,glaiver
 Cianca,fighter
 Cianca,fighter
 Fawk,glaiver
+Taiko,priest
