@@ -434,3 +434,4 @@ Alph,lancer
 Mini,logado
 Yulv,glaiver
 Blu
+Cianca,fighter
