@@ -430,3 +430,4 @@ Cianca,fighter
 Cianca,fighter
 Fawk,glaiver
 Taiko,priest
+Alph,lancer
