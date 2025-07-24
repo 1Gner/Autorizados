@@ -436,3 +436,4 @@ Yulv,glaiver
 Blu
 Cianca,fighter
 Alph,lancer
+Yulv,glaiver
