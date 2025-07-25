@@ -438,3 +438,4 @@ Cianca,fighter
 Alph,lancer
 Yulv,glaiver
 Yulv,glaiver
+Mini,logado
