@@ -442,3 +442,4 @@ Mini,logado
 Yulv,glaiver
 Yulv,glaiver
 Cianca,fighter
+Cianca,fighter
