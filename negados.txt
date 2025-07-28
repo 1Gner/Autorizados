@@ -445,3 +445,4 @@ Cianca,fighter
 Cianca,fighter
 Yulv,glaiver
 Blu
+Yulv,glaiver
