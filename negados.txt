@@ -447,3 +447,4 @@ Yulv,glaiver
 Blu
 Yulv,glaiver
 Yulv,glaiver
+Cianca,fighter
