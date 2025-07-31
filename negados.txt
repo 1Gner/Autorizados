@@ -456,3 +456,4 @@ Yulv,glaiver
 Wild,sorcerer
 Wild,sorcerer
 Yulv,glaiver
+Mini,logado
