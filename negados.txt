@@ -479,3 +479,4 @@ Mini,logado
 Cianca,fighter
 Yulv,glaiver
 Mini,logado
+Yulv,glaiver
