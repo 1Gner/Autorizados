@@ -461,3 +461,4 @@ Yulv,glaiver
 Yulv,glaiver
 Taiko,priest
 Yulv,glaiver
+Cianca,fighter
