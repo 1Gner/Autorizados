@@ -467,3 +467,4 @@ Taiko,priest
 Dopes,engineer
 Yulv,glaiver
 Alph,lancer
+Mini,logado
