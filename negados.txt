@@ -481,3 +481,4 @@ Yulv,glaiver
 Mini,logado
 Yulv,glaiver
 Fawk,glaiver
+Taiko,priest
