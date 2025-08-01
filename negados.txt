@@ -482,3 +482,4 @@ Mini,logado
 Yulv,glaiver
 Fawk,glaiver
 Taiko,priest
+Alph,lancer
