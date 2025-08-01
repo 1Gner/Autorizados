@@ -478,3 +478,4 @@ Yulv,glaiver
 Mini,logado
 Cianca,fighter
 Yulv,glaiver
+Mini,logado
