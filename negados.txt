@@ -469,3 +469,4 @@ Yulv,glaiver
 Alph,lancer
 Mini,logado
 Yulv,glaiver
+Mini,logado
