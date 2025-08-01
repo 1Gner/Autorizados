@@ -466,3 +466,4 @@ Fawk,glaiver
 Taiko,priest
 Dopes,engineer
 Yulv,glaiver
+Alph,lancer
