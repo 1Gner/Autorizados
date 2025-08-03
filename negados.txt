@@ -489,3 +489,4 @@ Yulv,glaiver
 Yulv,glaiver
 Mini,logado
 Taiko,priest
+Alph,lancer
